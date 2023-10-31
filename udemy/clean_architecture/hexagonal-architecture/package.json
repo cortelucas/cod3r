@@ -4,14 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsx src/main.ts",
+    "start:dev": "tsx watch src/main.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.8.10",
+    "@types/terminal-kit": "^2.5.3",
     "tsx": "^3.14.0",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "terminal-kit": "^3.0.1"
   }
 }
