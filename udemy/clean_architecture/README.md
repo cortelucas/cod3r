@@ -20,9 +20,9 @@ Repository dedicated to learning clean architecture with the course Domine a Arq
 - Implementação do projeto utilizando arquitetura hexagonal.
 - Implementation of the project using the hexagonal architecture.
   
-- [hexagonal-architecture](https://github.com/cortelucas/cod3r/udemy/clean_architecture/hexagonal-architecture)
+- [hexagonal-architecture](https://github.com/cortelucas/cod3r/tree/main/udemy/clean_architecture/hexagonal-architecture)
   
   Para utilizar:
-  - Pode baixar [aqui](https://github.com/cortelucas/cod3r/udemy/clean_architecture/hexagonal-architecture)
+  - Pode baixar [aqui](https://github.com/cortelucas/cod3r/tree/main/udemy/clean_architecture/hexagonal-architecture)
   - Pode clonar o repositório ``git clone https://github.com/cortelucas/cod3r.git``
 </details>
